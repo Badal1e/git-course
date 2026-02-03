@@ -1,0 +1,8 @@
+This is my first file 
+Adding content to file1
+file1 updated
+2026 is comming
+
+new text file after pushing to github
+
+just completed
